@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206608718517",
+    "project_id": "plant-doctor-1f44f",
+    "storage_bucket": "plant-doctor-1f44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206608718517:android:92af0be8c3b39ffc847cfc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_onboarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206608718517-plbqohult8a3gueh71maphcp6q09mnkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgApO54pvW2-9vq0MwF5Fi5cAncMqWDsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206608718517-plbqohult8a3gueh71maphcp6q09mnkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
